@@ -37,22 +37,6 @@ background-image: url(images/clean.jpg)
 ### working every time, everywhere
 <!-- ### with Remote Development Extension -->
 
-<!-- .who-box[
-  .row.table.text-center.middle[
-  .col-6.small.text-left[
-  ]
-  .col-6.small.text-right[
-  .ms[
-  .responsive[![](images/ms-full-logo.svg)]
-  ]
-  .float-right[
-  Yohan Lasorsa<br>
-  .fab.fa-github[] &nbsp;&nbsp;/sinedied<br>
-  .fab.fa-twitter[] @sinedied
-  ]
-  ]
-  ]
-] -->
 .full-layer.bottom.right.text-right.small[
   .ms.responsive[![](images/ms-full-logo.svg)]
   |
