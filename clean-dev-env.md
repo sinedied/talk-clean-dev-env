@@ -112,7 +112,7 @@ background-image: url(images/showme.gif)
   .row.table.middle.text-center[
   .col-3.small.text-left[
   Slides
-  .large[bit.do/cleanenv]
+  .large[bit.do/cleandevenv]
   ]
   .col-6.small.half[
   ]
